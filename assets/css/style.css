@@ -1,0 +1,23 @@
+.title {
+    text-align: center;
+}
+
+.playerOptions {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.player {
+    border: 2px solid;
+    background: white;
+    color: black
+}
+
+.enemy {
+    background: red;
+    color: black;
+    border: solid;
+}
+
+.defender {}
